@@ -1,5 +1,5 @@
 ![Black and Purple Gradient Neon Futuristic Technology LinkedIn Banner](https://github.com/user-attachments/assets/d49ddb10-c21d-4907-8591-86f1a07991ad)
-<img src="https://pics.craiyon.com/2023-11-26/oMNPpACzTtO5OVERUZwh3Q.webp" alt="">
+
 <h2 align="left">Hi 👋! My name is Naeem Raza and I'm a Frontend Developer from Pakistan</h2>
 
 
