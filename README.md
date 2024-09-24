@@ -1,4 +1,5 @@
-![Uploading Black Blue White Modern Software Engineer Linkedin Banner (3).png…]()
+![Black Blue White Modern Software Engineer Linkedin Banner (3)](https://github.com/user-attachments/assets/a6c5facc-b4c2-40d5-99c2-65f32e7f47c9)
+
 
 <h2 align="left">Hi 👋! I'm Naeem Raza Front-end engineer | Creating user interactive websites.</h2>
 <img src="/image/c:\Users\swp\Downloads\Black Blue White Modern Software Engineer Linkedin Banner (2).png" alt="">
