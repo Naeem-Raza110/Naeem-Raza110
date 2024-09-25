@@ -46,7 +46,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&locale=en&layout=compact" />
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Naeem Raza" style="height: 200px;" />
     </picture>
-<!--   </div>
+  </div>
   <div style="display: inline-block; height: 100%;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en" />
@@ -54,6 +54,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en" alt="Naeeem Raza" style="height: 200px;" />
     </picture>
   </div>
-</div> -->
+</div>
 
 <!-- <a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=wide&r=x0i" width="652" alt="Mujtaba Ali's Dev Card"/></a> -->
