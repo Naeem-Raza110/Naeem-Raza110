@@ -56,4 +56,3 @@
   </div>
 </div>
 
-<!-- <a href="https://app.daily.dev/mujtaba1129"><img src="https://api.daily.dev/devcards/v2/fuU0TvOHh1h3BVkhDKfrh.png?type=wide&r=x0i" width="652" alt="Mujtaba Ali's Dev Card"/></a> -->
