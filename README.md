@@ -47,4 +47,3 @@
     </picture>
   </div>
 </div>
-
