@@ -1,14 +1,16 @@
-👋 Hi, I'm Naeem Raza – a passionate Frontend Developer who loves crafting sleek and interactive user experiences!
+# 👋 Hi, I'm **Naeem Raza**  
+A passionate **Frontend Developer** who loves crafting sleek and interactive user experiences!
 
-🚀 About Me:
-💻 Building dynamic web apps using HTML, CSS, JavaScript and exploring modern libraries like React.
-🎨 Focused on creating responsive, user-friendly, and visually engaging websites.
-🔍 Always learning new technologies and striving to improve my coding skills.
-🌱 Currently working on expanding my portfolio with e-commerce frontend projects.
-🎯 Future goal: Complete the Meta Front-End Developer certification and dive deeper into network security and ethical hacking.
-📫 Let's Connect:
-💼 Check out my work here on GitHub!
-📸 Follow my coding journey on Instagram.
+## 🚀 About Me:
+- 💻 Building dynamic web apps using **HTML, CSS, JavaScript**, and exploring modern libraries like **React**.
+- 🎨 Focused on creating responsive, user-friendly, and visually engaging websites.
+- 🔍 Always learning new technologies and striving to improve my coding skills.
+- 🌱 Currently working on expanding my portfolio with **e-commerce frontend projects**.
+- 🎯 Future goal: Complete the **Meta Front-End Developer** certification and dive deeper into **network security** and **ethical hacking**.
+
+## 📫 Let's Connect:
+- 💼 Check out my work here on GitHub!
+- 📸 Follow my coding journey on [Instagram](your-IG-link).
 
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
