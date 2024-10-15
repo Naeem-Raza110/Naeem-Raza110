@@ -50,11 +50,6 @@ A **Frontend Developer** with a unique approach to crafting cutting-edge and int
 </table>
 </div>
 
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
-<div align="center">
-  ![Snake Game](https://github.com/Naeem-Raza110/Naeem-Raza110/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 
 <div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
