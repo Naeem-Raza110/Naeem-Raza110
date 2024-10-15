@@ -64,3 +64,4 @@ A **Frontend Developer** with a unique approach to crafting cutting-edge and int
 <div align="center">
   <img src="https://github.com/Naeem-Raza110/Naeem-Raza110/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
+![Snake Game](https://github.com/Naeem-Raza110/Naeem-Raza110/blob/output/github-contribution-grid-snake.svg)
