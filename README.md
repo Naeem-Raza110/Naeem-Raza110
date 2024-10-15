@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm **Naeem Raza**  
 A **Frontend Developer** with a unique approach to crafting cutting-edge and interactive user experiences!
 
@@ -28,41 +27,48 @@ A **Frontend Developer** with a unique approach to crafting cutting-edge and int
 - 📸 Follow my coding journey on [Instagram](your-IG-link).
 
 <h2 align="center">Languages and Tools:</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 </div>
 
 <h2 align="center">🐍 Snake Eating My Contributions</h2>
-
 <div align="center">
   ![Snake Game](https://github.com/Naeem-Raza110/Naeem-Raza110/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+
+<div style="text-align: center;">
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en&layout=compact" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&locale=en&layout=compact" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Naeem Raza" style="height: 200px;" />
+    </picture>
+  </div>
+  <div style="display: inline-block; height: 100%;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&locale=en" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naeem-Raza110&show_icons=true&theme=dracula&locale=en" alt="Naeeem Raza" style="height: 200px;" />
+    </picture>
+  </div>
+</div>
