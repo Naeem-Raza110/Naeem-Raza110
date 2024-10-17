@@ -1,7 +1,5 @@
 
-# 👋 Hi, I'm **Naeem Raza**  
-
-A **Frontend Developer** with a unique approach to crafting cutting-edge and interactive user experiences!
+# 👋 Hi, I'm A **Frontend Developer** with a unique approach to crafting cutting-edge and interactive user experiences!
 
 ## 🚀 About Me:
 - 💻 Building advanced web apps using **HTML, CSS, JavaScript**, with a focus on performance and scalability.
