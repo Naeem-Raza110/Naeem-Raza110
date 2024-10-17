@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm A **Front-End Developer | Svelte | Next.js | React | HTML | CSS | JS!
+# 👋 Hello, I'm A Front-End Developer | React | Next.js | Tailwind CSS | JavaScript | HTML5 | CSS3!
 
 ## 🚀 About Me:
 - 💻 Building advanced web apps using **HTML, CSS, JavaScript**, with a focus on performance and scalability.
