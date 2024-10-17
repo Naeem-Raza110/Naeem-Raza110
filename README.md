@@ -24,7 +24,7 @@
   
 ## 📫 Let's Connect:
 - 💼 Check out my work here on GitHub!
-- 📸 Follow my coding journey on [Instagram](your-IG-link).
+- 📸 Follow my coding journey on [Instagram](https://www.instagram.com/naee_m_72/?hl=en).
 
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
