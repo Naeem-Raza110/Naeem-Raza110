@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm A **Frontend Developer** with a unique approach to crafting cutting-edge and interactive user experiences!
+# 👋 Hi, I'm A **Front-End Developer | Svelte | Next.js | React | HTML | CSS | JS!
 
 ## 🚀 About Me:
 - 💻 Building advanced web apps using **HTML, CSS, JavaScript**, with a focus on performance and scalability.
