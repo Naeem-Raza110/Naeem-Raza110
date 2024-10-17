@@ -25,6 +25,7 @@
 ## 📫 Let's Connect:
 - 💼 Check out my work here on GitHub!
 - 📸 Follow my coding journey on [Instagram](https://www.instagram.com/naee_m_72/?hl=en).
+- 🔗 Connect with me professionally on LinkedIn.[Linkedin](www.linkedin.com/in/naeemraza313).
 
 <h2 align="center">Languages and Tools:</h2>
 <div style="display: flex; align-items: flex-start; align: center">
