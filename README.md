@@ -9,6 +9,10 @@
 - 🌍 Focused on building a portfolio of **e-commerce websites** with highly functional frontends that impress both users and clients.
 - 🔒 Exploring **network security** and **ethical hacking** to ensure secure and robust applications.
 
+
+
+
+
 ## 🔧 Key Libraries & Tools:
 - **React** – Fast, efficient UI development.
 - **Zustand** – State management that’s simpler and more scalable than Redux.
