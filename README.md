@@ -7,11 +7,6 @@
 - 🌟 Passionate about **self-improvement** through continuous learning, experimenting with new tools, and contributing to **open-source projects**.
 - 🎨 Specialized in **responsive, client-first designs** that prioritize user experience.
 - 🌍 Focused on building a portfolio of **e-commerce websites** with highly functional frontends that impress both users and clients.
-- 🔒 Exploring **network security** and **ethical hacking** to ensure secure and robust applications.
-
-
-
-
 
 ## 🔧 Key Libraries & Tools:
 - **React** – Fast, efficient UI development.
