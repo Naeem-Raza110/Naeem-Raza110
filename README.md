@@ -10,10 +10,6 @@
 - 🔒 Exploring **network security** and **ethical hacking** to ensure secure and robust applications.
 
 ## 🔧 Key Libraries & Tools:
-
-
-
-
 - **React** – Fast, efficient UI development.
 - **Zustand** – State management that’s simpler and more scalable than Redux.
 - **Tailwind CSS** – Rapid styling with utility-first CSS.
