@@ -3,10 +3,6 @@
 
 
 
-
-
-
-
 # 👋 Hello, I'm A Front-End Developer | React | Next.js | Tailwind CSS | JavaScript | HTML5 | CSS3!
 
 ## 🚀 About Me:
