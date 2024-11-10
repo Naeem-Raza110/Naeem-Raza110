@@ -1,20 +1,9 @@
 
-
-
-
-
-
-
-
-
-
-
-
 # 👋 Hello, I'm A Front-End Developer | React | Next.js | Tailwind CSS | JavaScript | HTML5 | CSS3!
 
 ## 🚀 About Me:
 - 💻 Building advanced web apps using **HTML, CSS, JavaScript**, with a focus on performance and scalability.
-- 🛠️ Leveraging modern libraries and tools like **React, Zustand**, and others to build highly optimized projects.
+- 🛠️ Leveraging modern libraries and tools like **React, Next.js**, and others to build highly optimized projects.
 - 🧠 Always learning and integrating **lesser-known yet powerful libraries** to stay ahead of the curve.
 - 🌟 Passionate about **self-improvement** through continuous learning, experimenting with new tools, and contributing to **open-source projects**.
 - 🎨 Specialized in **responsive, client-first designs** that prioritize user experience.
