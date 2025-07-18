@@ -1,22 +1,25 @@
 
 
-# 👋 Hello, I'm A Front-End Developer | React | Next.js | Tailwind CSS | JavaScript | HTML5 | CSS3!
+# 👋 Hello, I'm A Front-End Developer | JavaScript | HTML5 | CSS3!
 
 ## 🚀 About Me:
-- 💻 Building advanced web apps using **HTML, CSS, JavaScript**, with a focus on performance and scalability.
-- 🛠️ Leveraging modern libraries and tools like **React, Next.js**, and others to build highly optimized projects.
-- 🧠 Always learning and integrating **lesser-known yet powerful libraries** to stay ahead of the curve.
-- 🌟 Passionate about **self-improvement** through continuous learning, experimenting with new tools, and contributing to **open-source projects**.
-- 🎨 Specialized in **responsive, client-first designs** that prioritize user experience.
-- 🌍 Focused on building a portfolio of **e-commerce websites** with highly functional frontends that impress both users and clients.
+- 💻 I’m a frontend web developer focused on building clean and responsive websites using HTML, CSS3, and JavaScript.
+- 🛠️ 🎯 I specialize in creating user-friendly designs that work smoothly on all devices.
+- 🧠 🌱 Currently improving my skills and building a portfolio of projects to sharpen my frontend foundation.
+- 📈 Interested in learning best practices for web performance, SEO, and accessibility.
+- 🌍🌐 My goal is to deliver websites that are responsive, fast, and search engine optimized.
+
+## 🔧 Basic Skills:
+- HTML5 – Writing clean, semantic, and accessible markup.
+- CSS3 – Styling with responsive layouts using Flexbox and Grid.
+- JavaScript (Vanilla) – Adding interactivity and basic dynamic features.
+- Responsive Design – Mobile-first design for all screen sizes.
+- Basic SEO – Structuring content for better visibility in search engines.
+- Web Performance – Optimizing images, code, and structure for faster load times.
+- Git & GitHub – Basic version control and project collaboration.
 
 
-## 🔧 Key Libraries & Tools:
-- **React** – Fast, efficient UI development.
-- **Zustand** – State management that’s simpler and more scalable than Redux.
-- **Tailwind CSS** – Rapid styling with utility-first CSS.
-- **Sass** – CSS preprocessor for cleaner and more maintainable styles.
-- **Vite** – Lightning-fast development environment.
+
 
 ## 🎯 My Approach:
 - Client satisfaction and **high-quality projects** are my top priority.
