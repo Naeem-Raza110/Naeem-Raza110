@@ -1,6 +1,4 @@
 
-
-
 # 👋 Hello, I'm A Front-End Developer | JavaScript | HTML5 | CSS3!
 
 ## 🚀 About Me:
