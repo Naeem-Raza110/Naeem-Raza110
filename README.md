@@ -1,5 +1,5 @@
                                                                                                                                                                                                                                                                                          
-# 👋 Hello, I'm A Front-End Developer | React | JavaScript | HTML5 | CSS3!
+# 👋 Hello, I'm A Frontend Developer | React.js & Redux Specialist | Building Modern, Scalable Web Experiences
 
 ## 🚀 About Me:
 - 💻 I’m a frontend web developer focused on building clean and responsive websites using HTML, CSS3, and JavaScript.
