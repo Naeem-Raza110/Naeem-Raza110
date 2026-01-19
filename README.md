@@ -29,8 +29,8 @@
   
 ## 📫 Let's Connect:
 - 💼 Check out my work here on GitHub!
-- 📸 Follow my coding journey on [Instagram](https://www.instagram.com/naee_m_72/?hl=en).
-- 🔗 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/naeemraza313).
+- 📸 Follow my coding journey on [X](https://x.com/NRaza76252).
+- 🔗 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/naeemraza313/).
 
 
 
