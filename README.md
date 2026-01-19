@@ -13,7 +13,7 @@
 - CSS3 – Styling with responsive layouts using Flexbox and Grid.
 - JavaScript (Vanilla) – Adding interactivity and basic dynamic features.
 - React – Building reusable components, handling state, and creating dynamic single-page applications.
-- Bootstrap – Using prebuilt responsive components and utility classes for faster UI development.
+- Tailwind CSS – Using utility-first classes and responsive modifiers for faster UI development.
 - Responsive Design – Mobile-first design for all screen sizes.
 - Basic SEO – Structuring content for better visibility in search engines.
 - Web Performance – Optimizing images, code, and structure for faster load times.
