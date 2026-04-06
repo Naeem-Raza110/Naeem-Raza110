@@ -2,11 +2,11 @@
 # 👋 Hello, I'm A Frontend Developer | React.js & Redux Specialist | Building Modern, Scalable Web Experiences
 
 ## 🚀 About Me:
-- 💻 I’m a frontend web developer focused on building clean and responsive websites using HTML, CSS3, and JavaScript.
-- 🛠️ 🎯 I specialize in creating user-friendly designs that work smoothly on all devices.
-- 🧠 🌱 Currently improving my skills and building a portfolio of projects to sharpen my frontend foundation.
-- 📈 Interested in learning best practices for web performance, SEO, and accessibility.
-- 🌍🌐 My goal is to deliver websites that are responsive, fast, and search engine optimized.
+-  I’m a frontend web developer focused on building clean and responsive websites using HTML, CSS3, and JavaScript.
+-  I specialize in creating user-friendly designs that work smoothly on all devices.
+-  Currently improving my skills and building a portfolio of projects to sharpen my frontend foundation.
+-  Interested in learning best practices for web performance, SEO, and accessibility.
+-  My goal is to deliver websites that are responsive, fast, and search engine optimized.
 
 ## 🔧 Basic Skills:
 - HTML5 – Writing clean, semantic, and accessible markup.
