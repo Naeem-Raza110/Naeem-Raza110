@@ -88,10 +88,10 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://naeemraza.vercel.app)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
-
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/NRaza76252)
+[![Discord](https://img.shields.io/badge/Discord-naeemraza313-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/naeemraza313)
 
 ```
 open_to_work: true | status: available | response_time: fast
