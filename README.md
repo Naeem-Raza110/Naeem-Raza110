@@ -88,8 +88,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://naeemraza.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
+
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/NRaza76252)
 
 ```
