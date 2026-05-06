@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naeemraza.vercel.app-blue?style=flat-square&logo=vercel)](https://naeemraza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naeemraza313-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
 
 </div>
 
