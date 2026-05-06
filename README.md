@@ -15,8 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-naeemraza.vercel.app-blue?style=flat-square&logo=vercel)](https://naeemraza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naeemraza313-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
-[![X](https://img.shields.io/badge/X-NRaza76252-000000?style=flat-square&logo=x)](https://x.com/NRaza76252)
-[![Discord](https://img.shields.io/badge/Discord-naeemraza313-5865F2?style=flat-square&logo=discord)](https://discord.com/users/naeemraza313)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NaeemRaza313&style=flat-square&color=blue)
 
@@ -95,11 +93,11 @@
 
 | Service | Stack | Delivery |
 |---------|-------|----------|
-|  Landing Page | HTML · CSS · JS | 2-3 days |
+|  Landing Page | HTML5 · CSS3 · JS | 2-3 days |
 |  React Web App | React · Tailwind | 3-5 days |
 |  Next.js Website | Next.js · TypeScript | 4-7 days |
 |  UI to Code | Figma → React / Next.js | 2-4 days |
-|  Bug Fix / Revamp | Any Frontend Stack | 1-2 days |
+|  Bug Fix| Any Frontend Stack | 1-2 days |
 
 [![Hire Me on Fiverr](https://img.shields.io/badge/🟢_Available_Now-Order_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
 
