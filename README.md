@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-### `{ "role": "Frontend Developer", "stack": "React · Next.js · Zustand" }`
+### `{ "role": "Frontend Developer":"React · Next.js · Zustand · JavaScript (ES6+) · TypeScript}`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naeemraza.vercel.app-blue?style=flat-square&logo=vercel)](https://naeemraza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naeemraza313-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
@@ -40,13 +40,13 @@
 ```json
 {
   "core": {
-    "frameworks":   ["React.js", "Next.js ✦ trending"],
-    "state":        ["Zustand ✦ trending", "Redux Toolkit"],
+    "frameworks":   ["React.js", "Next.js"],
+    "state":        ["Zustand", "Redux Toolkit"],
     "language":     ["JavaScript (ES6+)", "TypeScript"],
     "styling":      ["Tailwind CSS", "CSS3", "Responsive Design"]
   },
   "ai_powered_dev": {
-    "tools":        ["Cursor AI ✦ trending", "Vibe Coding ✦ trending"],
+    "tools":        ["Cursor", "Vibe Coding"],
     "workflow":     "Idea → Prompt → Ship"
   },
   "fundamentals": {
@@ -75,11 +75,11 @@
 
 | Tool | Why It Matters |
 |------|---------------|
-| 🔷 **Next.js 14+** | App Router, Server Components, SSR/SSG |
-| 🟢 **Zustand** | Lightweight, zero-boilerplate state management |
-| 🟠 **Cursor AI** | AI-first code editor that 10x's productivity |
-| 🔥 **Vibe Coding** | Prompt-driven development workflow |
-| 🔵 **TypeScript** | Type-safe, maintainable codebases |
+|  **Next.js 15+** | App Router, Server Components, SSR/SSG |
+|  **Zustand** | Lightweight, zero-boilerplate state management |
+|  **Cursor AI** | AI-first code editor that 10x's productivity |
+|  **Vibe Coding** | Prompt-driven development workflow |
+|  **TypeScript** | Type-safe, maintainable codebases |
 
 ---
 
@@ -100,6 +100,3 @@ open_to_work: true | status: available | response_time: fast
 
 ---
 
-<div align="center">
-  <sub>Built with ☕ + Cursor AI · Always shipping something new</sub>
-</div>
