@@ -10,11 +10,15 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-### `{ "role": "Frontend Developer":"React · Next.js · Zustand · JavaScript (ES6+) · TypeScript}`
+### `{ "role": "Frontend Developer", "stack": "React · Next.js · Zustand · JavaScript · TypeScript" }`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-naeemraza.vercel.app-blue?style=flat-square&logo=vercel)](https://naeemraza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naeemraza313-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
+[![X](https://img.shields.io/badge/X-NRaza76252-000000?style=flat-square&logo=x)](https://x.com/NRaza76252)
+[![Discord](https://img.shields.io/badge/Discord-naeemraza313-5865F2?style=flat-square&logo=discord)](https://discord.com/users/naeemraza313)
+
+![Profile Views](https://komarev.com/ghpvc/?username=NaeemRaza313&style=flat-square&color=blue)
 
 </div>
 
@@ -40,13 +44,13 @@
 ```json
 {
   "core": {
-    "frameworks":   ["React.js", "Next.js"],
+    "frameworks":   ["React.js", "Next.js 15+"],
     "state":        ["Zustand", "Redux Toolkit"],
     "language":     ["JavaScript (ES6+)", "TypeScript"],
     "styling":      ["Tailwind CSS", "CSS3", "Responsive Design"]
   },
   "ai_powered_dev": {
-    "tools":        ["Cursor", "Vibe Coding"],
+    "tools":        ["Cursor AI", "Vibe Coding"],
     "workflow":     "Idea → Prompt → Ship"
   },
   "fundamentals": {
@@ -74,12 +78,46 @@
 ## `$ ls ./trending_tools/`
 
 | Tool | Why It Matters |
-|------|---------------|
-|  **Next.js 15+** | App Router, Server Components, SSR/SSG |
-|  **Zustand** | Lightweight, zero-boilerplate state management |
-|  **Cursor AI** | AI-first code editor that 10x's productivity |
-|  **Vibe Coding** | Prompt-driven development workflow |
-|  **TypeScript** | Type-safe, maintainable codebases |
+|------|----------------|
+| ⚡ **Next.js 15+** | App Router, Server Components, SSR/SSG |
+| 🟢 **Zustand** | Lightweight, zero-boilerplate state management |
+| 🤖 **Cursor AI** | AI-first code editor that 10x's productivity |
+| 🔥 **Vibe Coding** | Prompt-driven development workflow |
+| 🔷 **TypeScript** | Type-safe, maintainable codebases |
+
+---
+
+## `$ ./hire_me.sh`
+
+<div align="center">
+
+> **Looking for a Frontend Developer? Let's build something great together.**
+
+| Service | Stack | Delivery |
+|---------|-------|----------|
+| 🌐 Landing Page | HTML · CSS · JS | 2-3 days |
+| ⚡ React Web App | React · Tailwind | 3-5 days |
+| 🚀 Next.js Website | Next.js · TypeScript | 4-7 days |
+| 🎨 UI to Code | Figma → React / Next.js | 2-4 days |
+| 🔧 Bug Fix / Revamp | Any Frontend Stack | 1-2 days |
+
+[![Hire Me on Fiverr](https://img.shields.io/badge/🟢_Available_Now-Order_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/EgweL4D)
+
+</div>
+
+---
+
+## `$ cat github_stats.sh`
+
+<div align="center">
+
+![Naeem Raza GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaeemRaza313&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaeemRaza313&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NaeemRaza313&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
@@ -101,3 +139,4 @@ open_to_work: true | status: available | response_time: fast
 
 ---
 
+<!-- Naeem Raza Frontend Developer React Next.js JavaScript TypeScript Tailwind CSS Zustand Redux HTML5 CSS3 Freelance Fiverr Remote -->
