@@ -1,39 +1,105 @@
-                                                                                                                                                                                                                                                                                         
-# Hello, I'm A Frontend Developer | React.js & Redux Specialist | Building Modern, Scalable Web Experiences
+<!-- Header -->
+<div align="center">
 
-## About Me:
--  I’m a frontend web developer focused on building clean and responsive websites using HTML, CSS3, and JavaScript.
--  I specialize in creating user-friendly designs that work smoothly on all devices.
--  Currently improving my skills and building a portfolio of projects to sharpen my frontend foundation.
--  Interested in learning best practices for web performance, SEO, and accessibility.
--  My goal is to deliver websites that are responsive, fast, and search engine optimized.
+```
+██╗  ██╗███████╗██╗     ██╗      ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+```
 
-## Basic Skills:
-- HTML5 – Writing clean, semantic, and accessible markup.
-- CSS3 – Styling with responsive layouts using Flexbox and Grid.
-- JavaScript (Vanilla) – Adding interactivity and basic dynamic features.
-- React – Building reusable components, handling state, and creating dynamic single-page applications.
-- Tailwind CSS – Using utility-first classes and responsive modifiers for faster UI development.
-- Responsive Design – Mobile-first design for all screen sizes.
-- Basic SEO – Structuring content for better visibility in search engines.
-- Web Performance – Optimizing images, code, and structure for faster load times.
-- Git & GitHub – Basic version control and project collaboration.
+### `{ "role": "Frontend Developer", "stack": "React · Next.js · Zustand" }`
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-naeemraza.vercel.app-blue?style=flat-square&logo=vercel)](https://naeemraza.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naeemraza313-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
+[![X](https://img.shields.io/badge/X-NRaza76252-black?style=flat-square&logo=x)](https://x.com/NRaza76252)
 
-
-
-## My Approach:
-- Client satisfaction and **high-quality projects** are my top priority.
-- I believe in delivering **unique solutions** that help clients stand out in a crowded market.
-- Constantly experimenting with new **tools, libraries, and techniques** that few developers have tapped into.
-  
-##  Let's Connect:
-- 💼 Check out my work here on GitHub!
-- 📸 Follow my coding journey on [X](https://x.com/NRaza76252).
-- 🔗 Connect with me professionally on [LinkedIn](https://www.linkedin.com/in/naeemraza313/).
-
-
-**Check out my portfolio:**  
-[https://naeemraza.vercel.app](https://naeemraza.vercel.app)
 </div>
 
+---
+
+## `$ whoami`
+
+```json
+{
+  "name": "Naeem Raza",
+  "title": "Frontend Developer",
+  "focus": "Modern, scalable web experiences",
+  "location": "Remote",
+  "open_to_work": true,
+  "interests": ["React Ecosystem", "UI/UX", "Performance", "AI-Powered Dev Tools"]
+}
+```
+
+---
+
+## `$ cat skill_stack.json`
+
+```json
+{
+  "core": {
+    "frameworks":   ["React.js", "Next.js ✦ trending"],
+    "state":        ["Zustand ✦ trending", "Redux Toolkit"],
+    "language":     ["JavaScript (ES6+)", "TypeScript"],
+    "styling":      ["Tailwind CSS", "CSS3", "Responsive Design"]
+  },
+  "ai_powered_dev": {
+    "tools":        ["Cursor AI ✦ trending", "Vibe Coding ✦ trending"],
+    "workflow":     "Idea → Prompt → Ship"
+  },
+  "fundamentals": {
+    "markup":       "HTML5 (semantic & accessible)",
+    "version_ctrl": "Git & GitHub",
+    "api":          "REST APIs",
+    "seo_perf":     ["Core Web Vitals", "Basic SEO", "Image Optimization"]
+  }
+}
+```
+
+---
+
+## `$ cat approach.md`
+
+```
+▸ client_first      → Quality delivery and satisfaction above everything.
+▸ unique_solutions  → Building things that make clients stand out.
+▸ always_learning   → New tools, libraries, and AI workflows — every day.
+▸ ship_fast         → Cursor + Vibe Coding = idea to deployed, fast.
+```
+
+---
+
+## `$ ls ./trending_tools/`
+
+| Tool | Why It Matters |
+|------|---------------|
+| 🔷 **Next.js 14+** | App Router, Server Components, SSR/SSG |
+| 🟢 **Zustand** | Lightweight, zero-boilerplate state management |
+| 🟠 **Cursor AI** | AI-first code editor that 10x's productivity |
+| 🔥 **Vibe Coding** | Prompt-driven development workflow |
+| 🔵 **TypeScript** | Type-safe, maintainable codebases |
+
+---
+
+## `$ open connect --all`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge)](https://naeemraza.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naeemraza313/)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/NRaza76252)
+
+```
+open_to_work: true | status: available | response_time: fast
+```
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ☕ + Cursor AI · Always shipping something new</sub>
+</div>
